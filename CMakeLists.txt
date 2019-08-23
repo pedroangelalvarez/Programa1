@@ -4,7 +4,7 @@ project(Programa1)
 # Archivos del Projecto
 set(PROJECT_SOURCE
         main.cpp
-        Pelota.cpp Pelota.h)
+        Pelota.cpp Pelota.h Jugador.cpp Jugador.h)
 
 # C++ Standard se sugiere 11 o 14
 set(CMAKE_CXX_STANDARD 14)
